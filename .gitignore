@@ -6,7 +6,6 @@
 # Node artifact files
 node_modules/
 dist/
-.github/
 yarn.lock
 .eslintcache
 # Compiled Java class files
