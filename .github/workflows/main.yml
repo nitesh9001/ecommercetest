@@ -15,8 +15,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@main
-      - run: npm install
-      - run: npm build
       - uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks --delete --exclude '.git*/*'

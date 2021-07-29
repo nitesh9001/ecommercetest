@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40c09311.chunk.css",
+    "main.js": "/static/js/main.0a136c4f.chunk.js",
+    "main.js.map": "/static/js/main.0a136c4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5a6247b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5a6247b.js.map",
+    "static/css/2.6b560088.chunk.css": "/static/css/2.6b560088.chunk.css",
+    "static/js/2.ab5337de.chunk.js": "/static/js/2.ab5337de.chunk.js",
+    "static/js/2.ab5337de.chunk.js.map": "/static/js/2.ab5337de.chunk.js.map",
+    "static/js/3.28e029f2.chunk.js": "/static/js/3.28e029f2.chunk.js",
+    "static/js/3.28e029f2.chunk.js.map": "/static/js/3.28e029f2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.40c09311.chunk.css.map": "/static/css/main.40c09311.chunk.css.map",
+    "static/js/2.ab5337de.chunk.js.LICENSE.txt": "/static/js/2.ab5337de.chunk.js.LICENSE.txt",
+    "static/media/2.2f58ed1c.png": "/static/media/2.2f58ed1c.png",
+    "static/media/3.2b7bc416.png": "/static/media/3.2b7bc416.png",
+    "static/media/Gun1.1c439e2f.png": "/static/media/Gun1.1c439e2f.png",
+    "static/media/Image20.dc37b819.png": "/static/media/Image20.dc37b819.png",
+    "static/media/PARTNER1.0fa181c9.png": "/static/media/PARTNER1.0fa181c9.png",
+    "static/media/PARTNER2.b618fcc3.png": "/static/media/PARTNER2.b618fcc3.png",
+    "static/media/PARTNER3.ed40b0a6.png": "/static/media/PARTNER3.ed40b0a6.png",
+    "static/media/PARTNER4.5299f083.png": "/static/media/PARTNER4.5299f083.png",
+    "static/media/index.css": "/static/media/Poppins-SemiBold.5981b450.ttf",
+    "static/media/bg_img3.86018b42.png": "/static/media/bg_img3.86018b42.png",
+    "static/media/g3.81990809.png": "/static/media/g3.81990809.png",
+    "static/media/gun.d2b1c7c4.jpg": "/static/media/gun.d2b1c7c4.jpg",
+    "static/media/gun2.ca7eeac8.png": "/static/media/gun2.ca7eeac8.png",
+    "static/media/gun3.1f2f371c.png": "/static/media/gun3.1f2f371c.png",
+    "static/media/gun4.8ecf423c.png": "/static/media/gun4.8ecf423c.png",
+    "static/media/gunicon.097415f8.png": "/static/media/gunicon.097415f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a6247b.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.ab5337de.chunk.js",
+    "static/css/main.40c09311.chunk.css",
+    "static/js/main.0a136c4f.chunk.js"
+  ]
+}
